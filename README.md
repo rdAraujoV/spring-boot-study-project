@@ -22,7 +22,7 @@ Each project lives in its own folder, is self-contained, and has its own README 
 ## Structure
 
 ```
-spring-boot-playground/
+spring-boot-study-project/
 ├── auth-system/
 │   ├── src/
 │   └── README.md
