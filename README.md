@@ -8,7 +8,7 @@ Each project lives in its own folder, is self-contained, and has its own README 
 
 | Project                                             | Description                                               | Stack                                         |
 | --------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------- |
-| [`auth-system`]() | User registration and login with JWT-based authentication | Spring Boot, Spring Security, PostgreSQL, JWT |
+| [`auth-system`](./auth-system) | User registration and login with JWT-based authentication | Spring Boot, Spring Security, PostgreSQL, JWT |
 
 
 ## Tech Stack
