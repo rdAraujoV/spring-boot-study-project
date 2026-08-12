@@ -26,9 +26,6 @@ spring-boot-study-project/
 ├── auth-system/
 │   ├── src/
 │   └── README.md
-├── crud-system/
-│   ├── src/
-│   └── README.md
 └── README.md   <- you are here
 ```
 
